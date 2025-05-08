@@ -1,4 +1,9 @@
 ## Hi there 👋
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
+![Laravel](https://img.shields.io/badge/PHP-Laravel-red?logo=laravel)
+![Java](https://img.shields.io/badge/Java-Backend-blue?logo=java)
+![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?logo=angular)
+![Marketing](https://img.shields.io/badge/Strategy-SEO%2FSEM-brightgreen?logo=googleads)
 
 <!--
 **juanko6/juanko6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
