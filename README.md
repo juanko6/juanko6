@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+
+---
+📬 ¿Colaboramos?
+
+🟢 Estoy abierto a proyectos freelance, colaboraciones tech+marketing y desafíos UX.
+💡 Si tu marca necesita innovación digital, hablemos 👉 [juanko6@gmail.com](mailto:juanko6@gmail.com)
+
