@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Juan Gutiérrez
+# 🛡️ Juan Gutiérrez | Cybersecurity & Pentesting
 
-## 🚀 Developer + Estratega Digital + UX Thinker
+## 🚀 Security-Focused Developer | Cloud Security | DevSecOps
 
 ---
 
@@ -8,82 +8,74 @@
 > whoami
 Juan Carlos Gutiérrez Cáceres
 
-> focus --tech --creativity --strategy
-✅ Developer
-✅ Estratega Digital
-✅ UX Thinker
+> focus --security --offensive --cloud
+✅ Pentesting (OWASP Top 10)
+✅ Infrastructure as Code (Terraform)
+✅ Hardening & DevSecOps
 
 > mission
-“Convertir la tecnología en experiencias con impacto.”
+"Securing the cloud by understanding the exploit. Building resilient architectures through code."
 ```
 
 ---
 
 ### 🧠 Sobre mí
 
-Mi esencia profesional es convergente: combino disciplinas para lograr resultados integrales y con sentido estratégico.
+Ingeniero Informático especializado en la implementación de sistemas seguros y arquitectura de seguridad. Mi enfoque actual es la transición hacia roles de **Auditoría de Seguridad y Pentesting**, aplicando mi base como desarrollador Full Stack para identificar vulnerabilidades desde el código base.
 
-🔹 **Ingeniero Informático (4º año)** – Universidad de Alicante  
-🔹 **Graduando en Marketing y Publicidad** – UNIR  
-🔹 Experiencia en desarrollo web, microservicios, campañas SEO/SEM, UX, branding y analítica digital.
+🔹 **Ingeniero Informático (Actualmente 4º año)** – Universidad de Alicante
+🔹 **Especialización**: Análisis de vulnerabilidades web, seguridad en redes y automatización de infraestructuras seguras.
+🔹 **Enfoque técnico**: Implementación de modelos de seguridad integral, desde el hardening de servidores hasta la validación de seguridad en pipelines CI/CD.
 
 ---
 
-### 🛠️ Stack y habilidades
+### 🛠️ Security Stack & Tech
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
-![Laravel](https://img.shields.io/badge/PHP-Laravel-red?logo=laravel)
-![Java](https://img.shields.io/badge/Java-Backend-blue?logo=java)
-![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?logo=angular)
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker)
-![MySQL](https://img.shields.io/badge/DB-MySQL-blue?logo=mysql)
-![SEO](https://img.shields.io/badge/Marketing-SEO%2FSEM-brightgreen?logo=googleads)
-![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B?logo=wordpress)
+**Security & Audit Tools**
+- **Network Scanning:** Nmap, Wireshark
+- **Web Pentesting:** Burp Suite, OWASP ZAP
+- **Exploitation:** Metasploit Framework
+- **Management:** Nessus, Qualys
+
+**Infrastructure & DevSecOps**
+- **IaC:** Terraform
+- **Containers:** Docker
+- **OS:** Linux (Ubuntu/Kali)
+- **Web Servers:** Nginx (Hardening & Proxy)
+- **Cloud:** Oracle Cloud Infrastructure (OCI)
+
+---
+
+### 🌐 Proyectos de Seguridad Destacados
+
+- 🔐 [**MenuUnfolded**](https://menuunfolded.com) – SaaS de gestión de menús con infraestructura inmutable desplegada mediante **Terraform (IaC)** en Oracle Cloud. Incluye hardening de seguridad en Nginx, control estricto de headers, certificados SSL/TLS y monitorización activa de tráfico para detección de anomalías.
+- 🧠 [**MindCheck**](https://mindcheck.qzz.io) – Plataforma auditada bajo estándares **OWASP Top 10**. Implementé arquitectura de seguridad integral: autenticación JWT (refresh tokens), sanitización de inputs para mitigar SQLi/XSS y encriptación bcrypt.
+- 🧱 [**Right On It**](https://rightonitcorp.com) – Sistema con control de acceso basado en roles (RBAC), políticas de autorización granulares y logging de eventos de seguridad en APIs REST.
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanko6&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanko6&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juanko6&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+### 🧩 Mentalidad y Objetivos
+
+- **Hambre de aprender**: Investigación constante de nuevas metodologías de explotación y vulnerabilidades emergentes.
+- **Análisis Proactivo**: Capacidad para analizar resultados, documentar hallazgos técnicos y proponer soluciones efectivas para mitigar riesgos de negocio.
+- **Habilidades de Gestión**: Experiencia previa liderando equipos y proyectos de alta complejidad, lo que aporta una visión estratégica a la auditoría técnica.
 
 ---
 
-### 🌐 Proyectos destacados
+### 📬 Contacto
 
-- 🎯 [Right On It](https://rightonitcorp.com) – Inventario con dashboard predictivo  
-- 🧱 [Nogales de la Florida](https://nogalesdelaflorida.com) – Estrategia digital y migración web  
-- 🍽️ [Cuquita Restaurant](https://cuquitarestaurant.co) – SEO + SEM + optimización ROI  
+🟢 Disponible para desafíos en **Ciberseguridad Ofensiva, Pentesting o Consultoría de Seguridad**.
 
----
-
-### 🧩 ¿Qué me mueve?
-
-- Pensamiento estratégico con base técnica  
-- Enfoque en el usuario y el negocio  
-- Comunicación clara + creatividad + datos  
-- Aprendizaje constante + colaboración efectiva  
+📧 **juanko6@gmail.com**
+🔗 [LinkedIn](https://linkedin.com/in/juanko6)
 
 ---
 
-### ✨ Animación inspiradora
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
----
-
-### 📬 ¿Colaboramos?
-
-🟢 Abierto a colaboraciones, desafíos freelance y proyectos donde se unan código + diseño + estrategia.
-
-📧 **juanko6@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/juanko6)  
-
----
-
-> _“La tecnología solo cobra sentido cuando mejora la experiencia de alguien.”_
-
-
+> _"In cybersecurity, the only way to stay ahead is to never stop being a student."_
