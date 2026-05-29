@@ -6,7 +6,7 @@
 > whoami
 Juan Carlos Gutiérrez Cáceres
 > enfoque --fullstack --producto --integracion-ia
-✅ Aplicaciones de extremo a extremo
+✅ Aplicaciones de extremo a extremo (Next.js + FastAPI)
 ✅ Integración de IA en productos reales
 ✅ Despliegue, CI/CD y mantenimiento en la nube
 > mision
@@ -61,8 +61,14 @@ Ingeniero Informático con formación previa en Marketing. Esa mezcla rara me de
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas GitHub de Juan](https://github-readme-stats.vercel.app/api?username=juanko6&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juanko6&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanko6&show_icons=true&theme=radical&count_private=true" alt="Estadísticas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanko6&theme=radical" alt="Racha" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanko6&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes" />
+</p>
 
 ---
 
