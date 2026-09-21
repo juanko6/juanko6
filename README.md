@@ -51,11 +51,49 @@ Ingeniero Informático con formación previa en Marketing. Esa mezcla rara me de
 
 ### 🌐 Proyectos destacados
 
-- 🍽️ [**MenuUnfolded**](https://menuunfolded.com) — SaaS de menús digitales QR para restaurantes. Suscripciones con Stripe, sincronización en tiempo real (SSE), panel administrativo y despliegue completo en Oracle Cloud con CI/CD automatizado. _Construido en solitario, de principio a fin._
+#### 🍽️ MenuUnfolded — SaaS de cartas digitales QR · [menuunfolded.com](https://menuunfolded.com)
 
-- 🧠 [**MindCheck**](https://mindcheck.qzz.io) — Plataforma educativa que convierte PDFs en tests interactivos usando IA para generar preguntas automáticamente. Next.js + FastAPI + integración con modelos de IA. Online y disponible públicamente.
+<img src="https://juanko.com/img/work/menuunfolded/01.jpg" width="600" alt="MenuUnfolded">
 
-- 📦 [**Right On It**](https://rightonitcorp.com) — Sistema de control de inventario en tiempo real con análisis predictivo para cliente en EE. UU. Java + Spring Boot, microservicios, Angular + Redux.
+SaaS que digitaliza cartas de restaurantes con códigos QR: panel de administración, estadísticas de escaneo y suscripción freemium con Stripe. Incluye un importador de cartas con **IA multimodal** que extrae los platos a partir de fotos o PDFs. Next.js + FastAPI + PostgreSQL, desplegado en Oracle Cloud con CI/CD automatizado. _En producción con su primer cliente._
+
+---
+
+#### 🍛 Cuquita Restaurant — Web estática bilingüe · [vista previa](https://cuquita.juanko.com) · [código](https://github.com/juanko6/cuquita-restaurant-web)
+
+<img src="https://juanko.com/img/work/cuquita/01.jpg" width="600" alt="Cuquita Restaurant">
+
+Sitio para un restaurante colombiano en Pensilvania, en sustitución de un WordPress con Elementor que enviaba 300 KB de HTML y veinte archivos de JavaScript para mostrar texto y fotos. **Astro 7 estático**, bilingüe (español en la raíz, inglés bajo `/en/`) y sin JavaScript salvo donde hace falta.
+
+La carta no se duplica: se lee de la **API pública de MenuUnfolded** durante el build y se cachea en disco, de modo que un fallo de la API nunca publica una carta vacía. El diseño va por tokens, con la paleta muestreada del logo.
+
+**El CI bloquea el merge si un cambio se pasa del presupuesto**: 40 KB de HTML por página, 25 KB de CSS y 15 KB de JS. Tests unitarios con Vitest y end-to-end con Playwright, `main` protegida y todo entrando por pull request con Conventional Commits.
+
+_🔓 Repositorio público — pendiente de aprobación del cliente._
+
+---
+
+#### 🎬 Loomcast — Estudio multimedia con IA generativa 100 % local
+
+<img src="https://juanko.com/img/work/loomcast/01.jpg" width="600" alt="Loomcast">
+
+Genera vídeo, imagen y música ejecutando modelos de IA íntegramente en local, sin APIs de pago. Inferencia con **llama.cpp** sobre ocho modelos cuantizados seleccionables en caliente, con carga y descarga dinámica y orquestación de memoria unificada en Apple Silicon. Python + FastAPI por capas, tres pipelines independientes sobre un núcleo común y cola de jobs con recuperación ante fallo. Interfaz en Astro + Svelte.
+
+---
+
+#### ⏱️ NuxoAsist — Control horario y fichaje laboral
+
+<img src="https://juanko.com/img/work/nuxoasist/05.jpg" width="600" alt="NuxoAsist">
+
+Sistema de registro de jornada alineado con la normativa española: fichaje, pausas intrajornada, horas extra, ausencias y exportación para inspección. Auditoría *append-only* de correcciones con autor, fecha y motivo obligatorio. Node 22 + Fastify 5 + TypeScript sobre PostgreSQL 16, contrato **OpenAPI de 36 endpoints** como fuente de verdad y **178 tests con Vitest** contra base de datos real. _Diseñado API-first y desarrollado con TDD._
+
+---
+
+#### 🧠 MindCheck — Generador de tests con IA · [mindcheck.qzz.io](https://mindcheck.qzz.io)
+
+<img src="https://juanko.com/img/work/mindcheck/01.jpg" width="600" alt="MindCheck">
+
+Plataforma educativa que convierte documentos PDF en tests interactivos de opción múltiple usando IA. Next.js + FastAPI + PostgreSQL, con autenticación JWT, control de sesiones y arquitectura modular.
 
 ---
 
@@ -76,7 +114,7 @@ Ingeniero Informático con formación previa en Marketing. Esa mezcla rara me de
 
 - **De principio a fin**: diseño la especificación, codifico, despliego, mantengo. Si no llega a producción, no está terminado.
 - **Producto antes que tecnología**: las decisiones técnicas se justifican por el problema del usuario, no por moda.
-- **Visión de negocio**: 20+ años combinando ingeniería y marketing me ayudan a hablar con devs y con clientes el mismo día.
+- **Visión de negocio**: mi formación previa en Marketing y Publicidad aporta criterio de producto, analítica y conversión, y me ayuda a hablar con devs y con clientes el mismo día.
 - **Integración de IA con criterio**: la IA cuando resuelve un problema real, no como decoración.
 
 ---
