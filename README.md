@@ -95,18 +95,6 @@ Sistema de registro de jornada alineado con la normativa española: fichaje, pau
 
 Plataforma educativa que convierte documentos PDF en tests interactivos de opción múltiple usando IA. Next.js + FastAPI + PostgreSQL, con autenticación JWT, control de sesiones y arquitectura modular.
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanko6&show_icons=true&theme=radical&count_private=true" alt="Estadísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanko6&theme=radical" alt="Racha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanko6&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes" />
-</p>
 
 ---
 
